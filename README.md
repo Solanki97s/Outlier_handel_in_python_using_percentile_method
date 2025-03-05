@@ -1,0 +1,2 @@
+# Outlier_handel_in_python_using_percentile_method
+Outliner handling in python using percentile method
